@@ -1,4 +1,4 @@
-# HealthCare - Plataforma de Agendamento Médico
+# HealthCare - Tela Inicial
 
 **HealthCare** é uma plataforma que facilita a conexão entre pacientes, médicos e clínicas, permitindo o agendamento de consultas de forma intuitiva e eficiente. O projeto foi desenvolvido com HTML e CSS a partir de um design colaborativo criado no Figma para um trabalho acadêmico.
 
@@ -28,10 +28,4 @@
 ## Design
 
 Confira o design completo do projeto no [Figma](https://www.figma.com/design/UyYAS6DaverEpPDHsirkLk/Teste-Clinica-M%C3%A9dica?node-id=0-1&t=PuHKlU9i9ENhSD8S-1).
-
-## Instalação e Uso
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL-do-repositório>
-   ```
+ 
